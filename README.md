@@ -1,5 +1,8 @@
 # Git for Teams - Classwork Assignment
-
+#### ...you didn't link your JS file...you didn't pass in your element classes/ids...check out your JS file for a few comments - looks like you almost had everything ready but never tested html/js??
+#### Group Score : 2/3
+#### Mary : 3/4
+#### Jeff : 3/4
 ### Assignment
 * Before you begin this assignment read all directions and decide how to break up the work
 * Create an HTML, JS, and CSS file

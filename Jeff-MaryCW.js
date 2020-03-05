@@ -11,7 +11,7 @@ console.log(userSubmitButton);
 // *******************************************************************************************
 // Function Declaration to Alert User of Information Submitted
 let sendInfo = (userclick) => {
-    preventDefault;
+    preventDefault; // this should be userclick.preventDefault();
     let userStoredData= [`
         Your Name:${userName.value} Your Email:${userEmail.value} Message:${userMessage.value}` 
     ];
